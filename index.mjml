@@ -1,0 +1,66 @@
+<mjml>
+  <mj-body background-color="white">
+
+    <mj-section>
+      <mj-column>
+        <mj-image width="200px" src="./images/logo.svg" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#447de8">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="20px" font-family="Helvetica Neue">OFFRE DE PARRAINAGE</mj-text>
+        <mj-text align="center" color="#fff" font-size="20px" font-family="Helvetica Neue">150€ OFFERT</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/coeur.svg" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="400px">
+        <mj-text font-size="16px">Bonjour [prenom]</mj-text>
+        <mj-text font-size="16px">Vous aimez les consells de [conseiller] et nos offres d'assurances
+          santé expatriés ? Pourquoi ne pas les faire découvrir a vos proches et a votre
+          communauté dexpatriés ?</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column background-color="#102246">
+        <mj-text align="center" color="#447de8" font-size="20px" font-family="Helvetica Neue">VOTRE AVANTAGE</mj-text>
+        <mj-text align="center" color="#447de8" font-size="20px" font-family="Helvetica Neue">150€ pour chaque parrainage</mj-text>
+      </mj-column>
+      <mj-column background-color="#447de8">
+        <mj-text align="center" color="#102246" font-size="20px" font-family="Helvetica Neue">L'AVANTAGE DE VOTRE FILLEUL</mj-text>
+        <mj-text align="center" color="#102246" font-size="20px" font-family="Helvetica Neue">Jusqu'à 250€ remboursés</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="400px">
+        <mj-text align="center" color="#447de8" font-size="16px">Tout le monde y gagne !</mj-text>
+        <mj-text font-size="16px">Pour en profiter et parrainer, rendez-vous sur notre page spéciale :</mj-text>
+        <mj-image width="300px" src="./images/BOUTON.svg" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="400px">
+        <mj-image width="200px" src="./images/logo2.svg" />
+      </mj-column>
+      <mj-column width="200px">
+        <mj-text font-size="16px">Nous contacter</mj-text>
+      </mj-column>
+      <mj-column width="200px">
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px">Nous contacter</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
