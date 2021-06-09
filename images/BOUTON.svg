@@ -13,7 +13,7 @@
       <g transform="matrix(1, 0, 0, 1, -8.54, -6)" filter="url(#Rectangle_16)">
         <rect id="Rectangle_16-2" data-name="Rectangle 16" width="217" height="27" rx="13.5" transform="translate(9 6)" fill="#f36126"/>
       </g>
-      <text id="J_Y_VAIS" data-name="J’Y VAIS" transform="translate(107.456 17)" fill="#fff" font-size="14" font-family="Rawson-Bold, Rawson" font-weight="700"><tspan x="-22.171" y="0">J’Y VAIS</tspan></text>
+      <text id="J_Y_VAIS" data-name="J’Y VAIS" transform="translate(107.456 17)" fill="#fff" font-size="14" font-family="Arial" font-weight="700"><tspan x="-22.171" y="0">J’Y VAIS</tspan></text>
     </g>
   </g>
 </svg>

@@ -3,25 +3,25 @@
 
     <mj-section>
       <mj-column>
-        <mj-image width="200px" src="./images/logo.svg" />
+        <mj-image width="200px" src="https://mcusercontent.com/02a2f9324384f6ea20c339bb9/images/f6c3b56c-0cd3-494e-a787-aba7925e1417.png" />
       </mj-column>
     </mj-section>
 
     <mj-section padding="0" background-color="#447de8">
-      <mj-column width="200px" vertical-align="bottom">
-        <mj-text padding="10px" container-background-color="#102246" color="#fff" font-size="20px">OFFRE</mj-text>
-        <mj-text padding="10px" container-background-color="#102246" color="#fff" font-size="20px">DE PARRAINAGE</mj-text>
-        <mj-text padding="10px" container-background-color="#fff" color="#f16030" font-size="20px">150€ OFFERT</mj-text>
+      <mj-column width="250px" vertical-align="bottom">
+        <mj-text font-family="Arial" font-weight="600" padding="10px" container-background-color="#102246" color="#fff" font-size="22px">OFFRE</mj-text>
+        <mj-text font-family="Arial" font-weight="600" padding="10px" container-background-color="#102246" color="#fff" font-size="22px">DE PARRAINAGE</mj-text>
+        <mj-text font-family="Arial" font-weight="600" padding="10px" container-background-color="#fff" color="#f16030" font-size="22px">150€ OFFERT</mj-text>
       </mj-column>
       <mj-column>
-        <mj-image src="./images/coeur.svg" />
+        <mj-image src="https://mcusercontent.com/02a2f9324384f6ea20c339bb9/images/1d7e9ba3-af0c-3cec-45f0-7a963fe19415.png" />
       </mj-column>
     </mj-section>
 
     <mj-section>
-      <mj-column width="400px">
-        <mj-text font-size="16px">Bonjour [prenom]</mj-text>
-        <mj-text font-size="16px">Vous aimez les conseils de [conseiller] et nos offres d'assurances
+      <mj-column>
+        <mj-text font-family="Arial" color="#646464" font-size="16px">Bonjour [prenom]</mj-text>
+        <mj-text font-family="Arial" color="#646464" font-size="16px" line-height="24px">Vous aimez les conseils de [conseiller] et nos offres d'assurances
           santé expatriés ? Pourquoi ne pas les faire découvrir a vos proches et a votre
           communauté d'expatriés ?</mj-text>
       </mj-column>
@@ -29,71 +29,73 @@
 
     <mj-section>
       <mj-column background-color="#102246">
-        <mj-text padding="0px" padding-top="20px" align="center" color="#447de8" font-size="20px">VOTRE</mj-text>
-        <mj-text padding="0px" align="center" color="#447de8" font-size="20px">AVANTAGE</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" padding-top="20px" align="center" color="#447de8" font-size="14px" line-height="22px">VOTRE</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" align="center" color="#447de8" font-size="14px" line-height="22px">AVANTAGE</mj-text>
         <mj-spacer height="30px" />
-        <mj-text padding="0px" align="center" color="#fff" font-size="40px">150€</mj-text>
-        <mj-text padding="0px" align="center" color="#fff" font-size="20px">pour chaque</mj-text>
-        <mj-text padding="0px" align="center" color="#fff" font-size="20px">parrainage</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" align="center" color="#fff" font-size="40px">150€</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" align="center" color="#fff" font-size="20px">pour chaque</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" align="center" color="#fff" font-size="20px">parrainage</mj-text>
         <mj-spacer height="60px" />
       </mj-column>
       <mj-column background-color="#447de8">
-        <mj-text padding="0px" padding-top="20px" align="center" color="#102246" font-size="20px">L'AVANTAGE</mj-text>
-        <mj-text padding="0px" align="center" color="#102246" font-size="20px">DE VOTRE FILLEUL</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" padding-top="20px" align="center" color="#102246" font-size="14px" line-height="22px">L'AVANTAGE</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" align="center" color="#102246" font-size="14px" line-height="22px">DE VOTRE FILLEUL</mj-text>
         <mj-spacer height="30px" />
-        <mj-text padding="0px" align="center" color="#fff" font-size="20px">Jusqu'à</mj-text>
-        <mj-text padding="0px" align="center" color="#fff" font-size="40px">250€</mj-text>
-        <mj-text padding="0px" align="center" color="#fff" font-size="20px">remboursés</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" align="center" color="#fff" font-size="20px">Jusqu'à</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" align="center" color="#fff" font-size="40px">250€</mj-text>
+        <mj-text font-family="Arial" font-weight="700" padding="0px" align="center" color="#fff" font-size="20px">remboursés</mj-text>
         <mj-spacer height="60px" />
       </mj-column>
     </mj-section>
 
     <mj-section>
-      <mj-column width="400px">
-        <mj-text align="center" color="#447de8" font-size="16px">Tout le monde y gagne !</mj-text>
-        <mj-text font-size="14px">Pour en profiter et parrainer, rendez-vous sur notre page spéciale :</mj-text>
-        <mj-button width="400px" border-radius="20px" background-color="#f16030" color="white">
-          J'y vais
-        </mj-button>
+      <mj-column>
+        <mj-text font-family="Arial" font-weight="800" align="center" color="#447de8" font-size="20px">Tout le monde y gagne !</mj-text>
+        <mj-text padding="0" font-family="Arial" color="#646464" font-size="15px" align="center">Pour en profiter et parrainer, rendez-vous sur notre page spéciale :</mj-text>
+        <mj-spacer height="30px" />
+        <mj-image width="300px" height="50px" src="https://mcusercontent.com/02a2f9324384f6ea20c339bb9/images/8f66d424-470a-44f8-a2ae-d5febc339acb.png"/>
+        <!-- <mj-button padding="0" width="300px" font-weight="600" font-size="13px" border-radius="20px" background-color="#f16030" color="white">
+          J'Y VAIS
+        </mj-button> -->
       </mj-column>
     </mj-section>
 
     <mj-section padding="0px" padding-left="30px">
       <mj-column>
-        <mj-image padding="0px" align="left" src="./images/frites.svg" />
+        <mj-image padding="0px" align="left" src="https://mcusercontent.com/02a2f9324384f6ea20c339bb9/images/52f845e0-aa12-f43d-5c87-1fccf695b220.png" />
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#102246">
-      <mj-column width="300px">
-        <mj-image width="200px" src="./images/logo2.svg" />
+      <mj-column>
+        <mj-image padding="0px" width="170px" src="https://mcusercontent.com/02a2f9324384f6ea20c339bb9/images/4b6fed2f-67e1-4bdf-8d52-df502f98213c.png" />
       </mj-column>
 
-      <mj-group>
-        <mj-column width="160px">
-          <mj-text font-size="14px" color="#fff">Nous contacter</mj-text>
+      <mj-group >
+        <mj-column padding="0" padding-top="10px" width="70%">
+          <mj-text align="right" font-family="Arial" color="#ccc" font-size="12px" color="#fff">Nous contacter</mj-text>
         </mj-column>
-        <mj-column width="20px">
-          <mj-image width="20px" height="20px" src="./images/picto1.svg" />
+        <mj-column padding="0" padding-right="10px" width="10%">
+          <mj-image padding="0" padding-top="20px" width="15px" height="15px" src="https://mcusercontent.com/02a2f9324384f6ea20c339bb9/images/53b0597d-6b36-45c8-8935-e063984d0dbe.png" />
         </mj-column>
-        <mj-column width="20px">
-          <mj-image width="20px" height="20px" src="./images/picto2.svg" />
+        <mj-column padding="0" padding-right="10px" width="10%">
+          <mj-image padding="0" padding-top="20px" width="15px" height="15px" src="https://mcusercontent.com/02a2f9324384f6ea20c339bb9/images/0290545a-63c1-471c-b92e-4888638ee087.png" />
         </mj-column>
-        <mj-column width="20px">
-          <mj-image width="20px" height="20px" src="./images/picto3.svg" />
+        <mj-column padding="0" padding-right="10px" width="10%">
+          <mj-image padding="0" padding-top="20px" width="15px" height="15px" src="https://mcusercontent.com/02a2f9324384f6ea20c339bb9/images/5a91e817-2b77-4a9f-a7e2-d6d5edb22255.png" />
         </mj-column>
       </mj-group>
     </mj-section>
 
     <mj-section background-color="#102246">
       <mj-column>
-        <mj-text padding-bottom="0px" font-size="12px" color="#fff">
+        <mj-text font-family="Arial" color="#ccc" padding-bottom="0px" font-size="12px" color="#fff">
           Vous recevez cet email en tant que destinataire de la liste de diffusion International Santé.
         </mj-text>
-        <mj-text padding-top="0px" padding-bottom="0px" font-size="12px" color="#fff">
+        <mj-text font-family="Arial" color="#ccc" padding-top="0px" padding-bottom="0px" font-size="12px" color="#fff">
           Conformément à la Règlementation Généale sur la Protection des Données à caractère personnel, vous bénéficiez d'un droit à l'information, d'accès, de rectification et de suppression des données, d'un droit d'opposition pour motif légitime ou pour tout traitement lié à la prospection commerciale, d'un droit à la limitation après votre décès, qui s'excercent en contactant International Santé. A l'adresse email : donnees@international-sante.com
         </mj-text>
-        <mj-text padding-top="0px" font-size="12px" color="#fff">
+        <mj-text font-family="Arial" color="#ccc" padding-top="0px" font-size="12px" color="#fff">
           Pour vous désabonner cliquez ici
         </mj-text>
       </mj-column>
